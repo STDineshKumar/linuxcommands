@@ -1,0 +1,3 @@
+find is the command used to find/search any file in any directory 
+find *.pdf - it will find all the file with ext of pdf in current dir
+find path -name *.txt - it will find all the file with ext of ext in the directory or path you have provided
