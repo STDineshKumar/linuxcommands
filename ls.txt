@@ -1,1 +1,5 @@
 The ls commands used to list of files and Directory form current directoy
+ls 
+ls -a
+ls -l
+ls -h
