@@ -1,0 +1,4 @@
+to check the free space in disk
+free -m - show it in MB
+free -k - show it in KB
+free -g - show it in GB
