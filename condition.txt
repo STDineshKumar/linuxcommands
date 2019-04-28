@@ -1,0 +1,16 @@
+for loop 
+for varibale in {number of times}
+do
+commands 
+done
+if [ condition ];
+   then
+	commands
+fi
+
+while true
+do
+	commands
+	break - if needed
+done
+
