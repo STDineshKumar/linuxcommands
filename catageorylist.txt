@@ -1,0 +1,13 @@
+ Amazon is shopping website and as well as it will also offer the prime videos
+prime music, ebook, FireTV sticks
+category
+1. Mobile and computers
+2. TV application and Electronics
+3. Mens Fashion
+4. Womens Fashions
+5. Home Kitchen and Fashion
+6. Sports, fitness,  bags and luggaue
+7. Toys, kids fashion and  babyproducts
+8. Car and MotorBike
+9. Books and Audible
+10. Movies, music and video Games 
