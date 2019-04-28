@@ -1,0 +1,6 @@
+super or Root user
+sudo -su - command used to change to move to super or root user
+passwrd uname - change the user passwrod when you are super user
+sudo apt update
+supo apt ugrade
+
