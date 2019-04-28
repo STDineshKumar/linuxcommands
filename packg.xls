@@ -1,0 +1,8 @@
+The package installation
+sudo apt install pckgname
+this will install the package from the OS
+apt policy pckgname
+this will check the pckg installed status
+dpkg -al
+this willl show all the pckg installed in OS
+
