@@ -1,0 +1,2 @@
+cat /etc/issue
+This will display the exact version of OS
