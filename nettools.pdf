@@ -1,0 +1,15 @@
+Net tools in linux
+The net tools will installed using the package
+sudo apt install net-tools
+command used after install the net-tools
+ifconifg
+ip addr
+traceroute website
+dig website
+telnet website portnumbe
+nslookup website
+netstat
+scp $filename user@targerhost:/$path - This command is used to copy the file form one host to another host
+w - w prints a summary of the current activity on the system, including what each user is doing, and their processes.
+ifdown eth0 - to disable the network interface
+ifup eth0 - to enable the network interface
