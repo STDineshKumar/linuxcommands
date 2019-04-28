@@ -1,0 +1,6 @@
+To remove a directory or file
+rm filename
+rm -v file name
+rm -r directory
+rm -rv directory
+rm -rv d1 d2 d3 
