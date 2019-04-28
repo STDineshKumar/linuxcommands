@@ -1,0 +1,5 @@
+The Grep command is used to search using regualar expression
+commands used
+grep "^hey" file1 file2 file3 - this will find all the lines which contains hey at begining
+grep "thanks$" file1 file2 - this will find all the lines which contains thanks at last
+
