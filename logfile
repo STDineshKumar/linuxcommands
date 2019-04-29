@@ -1,0 +1,223 @@
+commit 11e9087a12322df97d051cf20a1030f6751a8ea5
+Merge: e7f4405 d3bd668
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Mon Apr 29 08:36:28 2019 +0530
+
+    Merge branch 'amazonshoppng' into commands
+
+commit d3bd668dbcc6052b5b22b74337904b467632380e
+Merge: 89c42c3 c4378c9
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Mon Apr 29 08:34:25 2019 +0530
+
+    Merge branch '24x7News' into amazonshoppng
+
+commit c4378c9caa0c83fed4e85ebb011cb22cc47ec0c3
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 13:43:50 2019 +0530
+
+    Movies
+
+commit 6c246b03418c343b621be1cd2f3ca9ccdefc7631
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 13:36:45 2019 +0530
+
+    Discovery
+
+commit 1497abae8ad1bf32a34c0f8585ae84dfc2b1e8e0
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 13:33:21 2019 +0530
+
+    National
+
+commit 821c8ef7a0f2679264526be67217b7492af1c5d1
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 13:29:24 2019 +0530
+
+    Sports
+
+commit f21f2d6a914ce3eb60af260977cc5be97cc52cb2
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 13:23:47 2019 +0530
+
+    News18
+
+commit 89c42c3faddb3c9a42c01a31750a5dd1dcd9485d
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 13:18:30 2019 +0530
+
+    Bike category
+
+commit d8cc5c23ac41509ae7939dea7823713e698d64aa
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 13:15:51 2019 +0530
+
+    Kids Section
+
+commit 325cad4b7077d671530da9cb2ae3d8d3d0b9ef42
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 13:12:31 2019 +0530
+
+    Sports
+
+commit 4c9bb0255aeef9211fe07c36a19c66fe78c89a44
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 13:09:53 2019 +0530
+
+    Beauty category
+
+commit 43b9a2312cbfe67399faff4ed3bfe4f6bab6958b
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 13:07:02 2019 +0530
+
+    Homes
+
+commit d878a7ad289ed969098bb93ab8c5b3c49f96174c
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 13:03:56 2019 +0530
+
+    Womens
+
+commit 39198f3fee2dfe933b30b9144fd53478ce071c1c
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 12:57:35 2019 +0530
+
+    Men Fashion
+
+commit 76bfd49a411df313e5124f60b5c9e9912631fbae
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 12:52:08 2019 +0530
+
+    TV/kitchen
+
+commit 16cd935886f2e81b7175a2310e5e76bf72cc1309
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 12:47:54 2019 +0530
+
+    Mobile/Computes
+
+commit 0eeadae6b2da77f2b3072667ad6693e4701f8491
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 12:42:26 2019 +0530
+
+    Description about amazn
+
+commit e7f44050746b83aba1c1d493f489ccdc6efc8595
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 10:07:01 2019 +0530
+
+    Looping condition
+
+commit acfe96ccf497f408fac61738ebef45446145bdea
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 09:47:10 2019 +0530
+
+    Free disk
+
+commit bb846f7ff31000d342ae349b54ce19ad535e3ad4
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 09:44:01 2019 +0530
+
+    permission
+
+commit df9ea00d7e9be8847e65de4939faebefd2882af4
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 09:36:37 2019 +0530
+
+    CRon tab
+
+commit 2c82abd80cf689a3adb7b2ca94179f86293b64e7
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 09:33:57 2019 +0530
+
+    Grep Pattern
+
+commit 394fde9fa657546fd293f2c9c17c48782d12668c
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 09:23:55 2019 +0530
+
+    Network Tools Commands
+
+commit 80f247626be93b3305311f12d8688759434d167f
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 09:16:53 2019 +0530
+
+    Package commands
+
+commit 356704883b3a9c3f836bae2440232c266b16d04e
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 09:12:48 2019 +0530
+
+    Search a doc
+
+commit 9cb1530bc67c466717b0172790709c27a956f6d8
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 09:07:57 2019 +0530
+
+    Root user
+
+commit 18ed012f0219f177174cd1cdbf6d3ef6d5055bee
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 09:03:51 2019 +0530
+
+    UP/UG
+
+commit 56803e954f10ed719f727c966b4897839ddf572d
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 08:58:07 2019 +0530
+
+    Remove dir
+
+commit 0ca61e71578c1fe5741fba2af30ecae7b2b70c93
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 08:55:16 2019 +0530
+
+    History of commands
+
+commit acac2b2f3756de2c42987a0e7f7c8eef2d97b3a9
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 08:53:11 2019 +0530
+
+    environmental variable
+
+commit 5138508fdc366ed85f7232756b4ebb87be0666ff
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 08:46:48 2019 +0530
+
+    Make a new Folder/dir
+
+commit 546836bf091e66d4693475207236974a2c97bb59
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 08:43:45 2019 +0530
+
+    add cp file and modified the ls file
+
+commit de385bfb851ebaeeed88b145fb7e51e8e0adea83
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 08:39:40 2019 +0530
+
+    ExactOS
+
+commit 1ca46c0b6b6e43c66aae895031eba0780990e09e
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 08:34:39 2019 +0530
+
+    Uname fie
+
+commit 62797321dc95765876567988fbfc2546a50b6162
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 08:28:22 2019 +0530
+
+    To get the current working directory
+
+commit a0dd998fef73ba067eab78c785062f96892c3d34
+Author: DineshST <dineshkumar1109@gmail.com>
+Date:   Sun Apr 28 08:23:16 2019 +0530
+
+    about the list of Files
+
+commit 9e54cde1bc7a174517f78447c506e5dd733edfd5
+Author: STDineshKumar <49930552+STDineshKumar@users.noreply.github.com>
+Date:   Sun Apr 28 08:05:02 2019 +0530
+
+    Initial commit
